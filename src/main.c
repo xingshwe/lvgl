@@ -91,7 +91,7 @@ int main(int argc, char **argv)
 
 #endif
 
-/**********************
+/********************** 
  *   STATIC FUNCTIONS
  **********************/
 
